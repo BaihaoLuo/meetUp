@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="dayOfWeek">
+        <item name="MWF">Monday-Wednesday-Friday</item>
+        <item name="TR">Tuesday-Thursday</item>
+    </string-array>
+
+    <string-array name="dayOfWeekValues">
+        <item name="MWF">MWF</item>
+        <item name="TR">TR</item>
+    </string-array>
+
+    <string-array name="timeOfDay">
+        <item name="10">Morning Break</item>
+        <item name="12">Noon</item>
+        <item name="15">Afternoon Break</item>
+        <item name="18">Dinner</item>
+    </string-array>
+
+    <string-array name="timeOfDayValues">
+        <item name="10">10</item>
+        <item name="12">12</item>
+        <item name="15">15</item>
+        <item name="18">18</item>
+    </string-array>
+    
+    <string-array name="placeDistance">
+        <item name="250">250 m</item>
+        <item name="500">500 m</item>
+        <item name="1000">1000 m</item>
+        <item name="2000">2000 m</item>
+    </string-array>
+    
+    <string-array name="placeDistanceValues">
+        <item name="250">250</item>
+        <item name="500">500</item>
+        <item name="1000">1000</item>
+        <item name="2000">2000</item>
+    </string-array>
+
+    <string-array name="typeOfFood">
+        <item name="Sushi">Sushi</item>
+        <item name="Burgers">Burgers</item>
+        <item name="Café">Café</item>
+        <item name="All">All</item>
+    </string-array>
+
+    <string-array name="typeOfFoodValues">
+        <item name="Sushi">Sushi</item>
+        <item name="Buregers">Burgers</item>
+        <item name="Café">Café</item>
+        <item name="All">All</item>
+    </string-array>
+
+    <string-array name="turnOnCustomSchedule">
+        <item name="Yes">Yes</item>
+        <item name="No">No</item>
+    </string-array>
+
+    <string-array name="turnOnCustomScheduleValues">
+        <item name="Yes">Yes</item>
+        <item name="No">No</item>
+    </string-array>
+
+    <string-array name="letMeWalkAround">
+        <item name="On">Turn On</item>
+        <item name="Off">Turn Off</item>
+    </string-array>
+
+    <string-array name="letMeWalkAroundValues">
+        <item name="On">On</item>
+        <item name="Off">Off</item>
+    </string-array>
+
+    <string-array name="class1">
+        <item name="CPSC210201">CPSC 210 201</item>
+        <item name="CPSC210202">CPSC 210 202</item>
+        <item name="CPSC210BCS">CPSC 210 BCS</item>
+        <item name="SCIE220200">SCIE 220 200</item>
+        <item name="MATH200201">MATH 200 201</item>
+        <item name="MATH200201">MATH 200 201</item>
+        <item name="JAPN103002">JAPN 103 002</item>
+        <item name="SCIE113213">SCIE 113 213</item>
+        <item name="MATH221202">MATH 221 202</item>
+        <item name="PHYS203201">PHYS 203 201</item>
+    </string-array>
+
+    <string-array name="class1Values">
+        <item name="CPSC210201">CPSC210201</item>
+        <item name="CPSC210202">CPSC210202</item>
+        <item name="CPSC210BCS">CPSC210BCS</item>
+        <item name="SCIE220200">SCIE220200</item>
+        <item name="MATH200201">MATH200201</item>
+        <item name="MATH200201">MATH200201</item>
+        <item name="JAPN103002">JAPN103002</item>
+        <item name="SCIE113213">SCIE113213</item>
+        <item name="MATH221202">MATH221202</item>
+        <item name="PHYS203201">PHYS203201</item>
+    </string-array>
+
+    <string-array name="class2">
+        <item name="CPSC210201">CPSC 210 201</item>
+        <item name="CPSC210202">CPSC 210 202</item>
+        <item name="CPSC210BCS">CPSC 210 BCS</item>
+        <item name="SCIE220200">SCIE 220 200</item>
+        <item name="MATH200201">MATH 200 201</item>
+        <item name="MATH200201">MATH 200 201</item>
+        <item name="JAPN103002">JAPN 103 002</item>
+        <item name="SCIE113213">SCIE 113 213</item>
+        <item name="MATH221202">MATH 221 202</item>
+        <item name="PHYS203201">PHYS 203 201</item>
+    </string-array>
+
+    <string-array name="class2Values">
+        <item name="CPSC210201">CPSC210201</item>
+        <item name="CPSC210202">CPSC210202</item>
+        <item name="CPSC210BCS">CPSC210BCS</item>
+        <item name="SCIE220200">SCIE220200</item>
+        <item name="MATH200201">MATH200201</item>
+        <item name="MATH200201">MATH200201</item>
+        <item name="JAPN103002">JAPN103002</item>
+        <item name="SCIE113213">SCIE113213</item>
+        <item name="MATH221202">MATH221202</item>
+        <item name="PHYS203201">PHYS203201</item>
+    </string-array>
+
+    <string-array name="class3">
+        <item name="CPSC210201">CPSC 210 201</item>
+        <item name="CPSC210202">CPSC 210 202</item>
+        <item name="CPSC210BCS">CPSC 210 BCS</item>
+        <item name="SCIE220200">SCIE 220 200</item>
+        <item name="MATH200201">MATH 200 201</item>
+        <item name="MATH200201">MATH 200 201</item>
+        <item name="JAPN103002">JAPN 103 002</item>
+        <item name="SCIE113213">SCIE 113 213</item>
+        <item name="MATH221202">MATH 221 202</item>
+        <item name="PHYS203201">PHYS 203 201</item>
+    </string-array>
+
+    <string-array name="class3Values">
+        <item name="CPSC210201">CPSC210201</item>
+        <item name="CPSC210202">CPSC210202</item>
+        <item name="CPSC210BCS">CPSC210BCS</item>
+        <item name="SCIE220200">SCIE220200</item>
+        <item name="MATH200201">MATH200201</item>
+        <item name="MATH200201">MATH200201</item>
+        <item name="JAPN103002">JAPN103002</item>
+        <item name="SCIE113213">SCIE113213</item>
+        <item name="MATH221202">MATH221202</item>
+        <item name="PHYS203201">PHYS203201</item>
+    </string-array>
+
+    <string-array name="class4">
+        <item name="CPSC210201">CPSC 210 201</item>
+        <item name="CPSC210202">CPSC 210 202</item>
+        <item name="CPSC210BCS">CPSC 210 BCS</item>
+        <item name="SCIE220200">SCIE 220 200</item>
+        <item name="MATH200201">MATH 200 201</item>
+        <item name="MATH200201">MATH 200 201</item>
+        <item name="JAPN103002">JAPN 103 002</item>
+        <item name="SCIE113213">SCIE 113 213</item>
+        <item name="MATH221202">MATH 221 202</item>
+        <item name="PHYS203201">PHYS 203 201</item>
+        <item name="noclass">No Class</item>
+    </string-array>
+
+    <string-array name="class4Values">
+        <item name="CPSC210201">CPSC210201</item>
+        <item name="CPSC210202">CPSC210202</item>
+        <item name="CPSC210BCS">CPSC210BCS</item>
+        <item name="SCIE220200">SCIE220200</item>
+        <item name="MATH200201">MATH200201</item>
+        <item name="MATH200201">MATH200201</item>
+        <item name="JAPN103002">JAPN103002</item>
+        <item name="SCIE113213">SCIE113213</item>
+        <item name="MATH221202">MATH221202</item>
+        <item name="PHYS203201">PHYS203201</item>
+        <item name="noclass">No Class</item>
+    </string-array>
+
+    <string-array name="class5">
+        <item name="CPSC210201">CPSC 210 201</item>
+        <item name="CPSC210202">CPSC 210 202</item>
+        <item name="CPSC210BCS">CPSC 210 BCS</item>
+        <item name="SCIE220200">SCIE 220 200</item>
+        <item name="MATH200201">MATH 200 201</item>
+        <item name="MATH200201">MATH 200 201</item>
+        <item name="JAPN103002">JAPN 103 002</item>
+        <item name="SCIE113213">SCIE 113 213</item>
+        <item name="MATH221202">MATH 221 202</item>
+        <item name="PHYS203201">PHYS 203 201</item>
+        <item name="noclass">No Class</item>
+    </string-array>
+
+    <string-array name="class5Values">
+        <item name="CPSC210201">CPSC210201</item>
+        <item name="CPSC210202">CPSC210202</item>
+        <item name="CPSC210BCS">CPSC210BCS</item>
+        <item name="SCIE220200">SCIE220200</item>
+        <item name="MATH200201">MATH200201</item>
+        <item name="MATH200201">MATH200201</item>
+        <item name="JAPN103002">JAPN103002</item>
+        <item name="SCIE113213">SCIE113213</item>
+        <item name="MATH221202">MATH221202</item>
+        <item name="PHYS203201">PHYS203201</item>
+        <item name="noclass">No Class</item>
+    </string-array>
+
+
+
+
+
+</resources>

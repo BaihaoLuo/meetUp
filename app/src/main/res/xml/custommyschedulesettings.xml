@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:entries="@array/turnOnCustomSchedule"
+        android:entryValues="@array/turnOnCustomScheduleValues"
+        android:key="turnOnCustomSchedule"
+        android:defaultValue="No"
+        android:summary="Choose to use custom my schedule or not"
+        android:title="switch"/>
+
+    <ListPreference
+        android:entries="@array/class1"
+        android:entryValues="@array/class1Values"
+        android:key="class1"
+        android:defaultValue="CPSC210201"
+        android:summary="set up your class"
+        android:title="Class #1"/>
+
+    <ListPreference
+        android:entries="@array/class2"
+        android:entryValues="@array/class2Values"
+        android:key="class2"
+        android:defaultValue="CPSC210201"
+        android:summary="set up your class"
+        android:title="Class #2"/>
+
+    <ListPreference
+        android:entries="@array/class3"
+        android:entryValues="@array/class3Values"
+        android:key="class3"
+        android:defaultValue="CPSC210201"
+        android:summary="set up your class"
+        android:title="Class #3"/>
+
+    <ListPreference
+        android:entries="@array/class4"
+        android:entryValues="@array/class4Values"
+        android:key="class4"
+        android:defaultValue="CPSC210201"
+        android:summary="set up your class"
+        android:title="Class #4"/>
+
+    <ListPreference
+        android:entries="@array/class5"
+        android:entryValues="@array/class5Values"
+        android:key="class5"
+        android:defaultValue="CPSC210201"
+        android:summary="set up your class"
+        android:title="Class #5"/>
+
+
+
+</PreferenceScreen>

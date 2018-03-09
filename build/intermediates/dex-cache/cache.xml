@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Byron/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.6.1/6f3b8a24bf970f17289b234284c94f43eb42f0e4/slf4j-api-1.6.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6f3b8a24bf970f17289b234284c94f43eb42f0e4">
+        <dex dex="/Users/Byron/Documents/MeetUp-Phase2/app/build/intermediates/pre-dexed/debug/slf4j-api-1.6.1-2b70be14d8502d0dae0178d3212c09365d7d41a5.jar" />
+    </item>
+    <item
+        jar="/Users/Byron/Documents/MeetUp-Phase2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/Byron/Documents/MeetUp-Phase2/app/build/intermediates/pre-dexed/debug/classes-4ec6cb872eb028b95fcd3e28ddd1470bed724773.jar" />
+    </item>
+    <item
+        jar="/Users/Byron/Documents/MeetUp-Phase2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/Byron/Documents/MeetUp-Phase2/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-66a5c1a995108ad41f22ccac8aa3bd0eaa050d86.jar" />
+    </item>
+    <item
+        jar="/Users/Byron/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/Byron/Documents/MeetUp-Phase2/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-d9f6270e26219c27d431029c1dea62a87e497e07.jar" />
+    </item>
+    <item
+        jar="/Users/Byron/.gradle/caches/modules-2/files-2.1/org.osmdroid/osmdroid-android/4.2/f3a0c73a9ed04a5d0959789c53da9f08462bfcc2/osmdroid-android-4.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f3a0c73a9ed04a5d0959789c53da9f08462bfcc2">
+        <dex dex="/Users/Byron/Documents/MeetUp-Phase2/app/build/intermediates/pre-dexed/debug/osmdroid-android-4.2-d14113cc927e72f4e536dc53dc6523ba8a23d0c5.jar" />
+    </item>
+    <item
+        jar="/Users/Byron/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-simple/1.6.1/58e59bfb3e247097b8122243b3bfe0049c8cfae8/slf4j-simple-1.6.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="58e59bfb3e247097b8122243b3bfe0049c8cfae8">
+        <dex dex="/Users/Byron/Documents/MeetUp-Phase2/app/build/intermediates/pre-dexed/debug/slf4j-simple-1.6.1-a5f095264ae60e6903c596d294b649790def367b.jar" />
+    </item>
+    <item
+        jar="/Users/Byron/Documents/MeetUp-Phase2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/Byron/Documents/MeetUp-Phase2/app/build/intermediates/pre-dexed/debug/classes-5a30b3d1a980e17887fe05548537fdc9df1fdaa1.jar" />
+    </item>
+
+</items>
